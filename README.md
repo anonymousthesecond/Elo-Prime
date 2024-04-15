@@ -1,4 +1,4 @@
-# Quantum-Cipher
+# Quantum-Cipher AKA Elo Prime
 The beginning of the world's greatest chess engine. . . . . 
 
 ## Overview
