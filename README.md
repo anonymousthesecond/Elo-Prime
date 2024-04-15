@@ -1,5 +1,5 @@
 # Quantum-Cipher AKA Elo Prime
-The beginning of the world's greatest chess engine. . . . . 
+The beginning of the world's greatest chess engine. . . . . This,once finished,will obliterate Stockfish like AlphaZero did years ago. . . . . . . 
 
 ## Overview
 
@@ -40,7 +40,7 @@ To compile and run the chess engine, follow these steps:
 
 ## Contribution Guidelines
 
-Contributions to the project are welcome! Please follow these guidelines:
+Contributions to the project are welcome! Follow these guidelines:
 
 - Fork the repository and create a new branch for your changes.
 - Make your modifications and ensure they adhere to coding standards and best practices.
